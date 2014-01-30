@@ -1,0 +1,59 @@
+#colsey {
+	display: none;
+}
+
+#sp_sans {
+	display: none;
+}
+
+#sp_serif {
+	display: none;
+}
+
+img.typekit-badge {
+	display: none !important;
+}
+
+#winborder {
+	display: none;
+}
+
+#hearts {
+	display: none;
+}
+
+.lighth {
+	display: none;
+}
+
+#foot div#box {
+	display: none;
+}
+
+#foot div#box {
+	display: none;
+	width: 0 ;
+	position: inherit;
+	float: none;
+	height: 0;
+	background:#FF5966;
+	margin-top: -10px;
+	clear: none;
+	border-right: 3px solid #FF959D;
+}
+
+#foot {
+	display: block;
+	margin: 0 auto !important;
+	margin-top: 35px;
+	width: 777px !important;
+	position: relative !important;
+	float: none;
+	clear: none;
+	padding: 10px 0px;
+	text-align: center !important;
+	font-size: 0.7em;
+	border-top: 3px solid #FF959D;
+	background: #FFB3B8;
+	border-bottom: 3px solid #FF959D;
+}
