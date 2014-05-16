@@ -1,9 +1,9 @@
 <?php
-$txpcfg['db'] = 'forcolsey';
-$txpcfg['user'] = 'root';
-$txpcfg['pass'] = 'root';
-$txpcfg['host'] = '127.0.0.1';
+$txpcfg['db'] = 'heroku_a030100ce41c6fb';
+$txpcfg['user'] = 'bccffc26d3396c';
+$txpcfg['pass'] = '4426496f';
+$txpcfg['host'] = 'us-cdbr-east-05.cleardb.net';
 $txpcfg['table_prefix'] = '';
-$txpcfg['txpath'] = '/Users/jdsimcoe/Sites/forcolsey/textpattern';
+$txpcfg['txpath'] = 'textpattern';
 $txpcfg['dbcharset'] = 'utf8';
 ?>
