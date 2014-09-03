@@ -1,4 +1,4 @@
-I <3 Colsey!!!
+I :heart: Colsey!!!
 ==============
 
 This is a website for Colsey Simcoe only.
